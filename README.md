@@ -1,6 +1,6 @@
 # recetas-team-Baraja
 
-* Alex Camacho
-* Luis Insuasti
-* Victor Macas
-* Kevin Quisnia
+- Lider -> Alex Camacho
+- Luis Insuasti
+- Victor Macas
+- Kevin Quisnia
