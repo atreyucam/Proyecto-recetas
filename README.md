@@ -1,4 +1,4 @@
-# recetas-team-Baraja
+# Proyecto-recetas
 
 - Lider -> Alex Camacho
 - Luis Insuasti
