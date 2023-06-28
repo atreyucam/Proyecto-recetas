@@ -1,6 +1,6 @@
 # Proyecto-recetas
 
-- Lider -> Alex Camacho
-- Luis Insuasti
-- Victor Macas
-- Erik Quisnia
+- Lider -> Alex Camacho - 6767
+- Luis Insuasti - 6696
+- Victor Macas - 6755
+- Erik Quisnia - 6838
